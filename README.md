@@ -25,7 +25,7 @@ Airship Tycoon is a 2D idle tycoon game built in Unity where players manage and 
 
 4. Open the main scene from the Assets folder.
 
-5, Press Play in the Unity Editor to run the game.
+5. Press Play in the Unity Editor to run the game.
 
 ## 📌 Development Progress
 - **✅ UI Framework:** Home Page with Main Route and Small Route panels.
